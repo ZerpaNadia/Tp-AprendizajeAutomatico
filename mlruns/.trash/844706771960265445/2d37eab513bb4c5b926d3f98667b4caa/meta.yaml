@@ -1,0 +1,16 @@
+artifact_uri: mlflow-artifacts:/844706771960265445/2d37eab513bb4c5b926d3f98667b4caa/artifacts
+deleted_time: 1701125211311
+end_time: 1701124907398
+entry_point_name: ''
+experiment_id: '844706771960265445'
+lifecycle_stage: deleted
+run_id: 2d37eab513bb4c5b926d3f98667b4caa
+run_name: dashing-hare-257
+run_uuid: 2d37eab513bb4c5b926d3f98667b4caa
+source_name: ''
+source_type: 4
+source_version: ''
+start_time: 1701124902330
+status: 3
+tags: []
+user_id: zerpa
